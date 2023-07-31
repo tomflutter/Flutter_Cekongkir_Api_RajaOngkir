@@ -1,0 +1,50 @@
+{
+    "code":"jne",
+    "name":"OkeTom(JET)",
+    "costs":[
+       {
+          "service":"OKE",
+          "description":"Ongkos Kirim Ekonomis",
+          "cost":[
+             {
+                "value":38000,
+                "etd":"4-5",
+                "note":""
+             }
+          ]
+       },
+       {
+          "service":"REG",
+          "description":"Layanan Reguler",
+          "cost":[
+             {
+                "value":44000,
+                "etd":"2-3",
+                "note":""
+             }
+          ]
+       },
+       {
+          "service":"SPS",
+          "description":"Super Speed",
+          "cost":[
+             {
+                "value":349000,
+                "etd":"",
+                "note":""
+             }
+          ]
+       },
+       {
+          "service":"YES",
+          "description":"Yakin Esok Sampai",
+          "cost":[
+             {
+                "value":98000,
+                "etd":"1-1",
+                "note":""
+             }
+          ]
+       }
+    ]
+ }
